@@ -19,3 +19,11 @@
 5. Adaptive Colors & Images
 6. App Icons & Launch Screen
 
+## App 3 • Honeymoon
+
+1. Complex Drag Gestures
+2. Modern User Interface
+3. Light & Dark Modes
+4. Vector Assets and Sounds
+5. Animations with SwiftUI
+6. App Icons & Launch Screen
